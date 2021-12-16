@@ -1,0 +1,4 @@
+.env/*
+resources/*
+!resources/setfiles/.gitkeep
+!resources/example.xlsx
